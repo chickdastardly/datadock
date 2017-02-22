@@ -1,0 +1,2 @@
+﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Zambia> <http://datadock.io/chickdastardly/datadock/id/definition/2014> "4 077 547"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+<http://datadock.io/chickdastardly/datadock/id/resource/country/Zambia> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Zambia"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
