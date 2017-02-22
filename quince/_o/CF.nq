@@ -1,0 +1,3 @@
+﻿<http://datadock.io/chickdastardly/datadock/id/definition/2009> <http://www.w3.org/2000/01/rdf-schema#label> "2009"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/definitions>.
+<http://datadock.io/chickdastardly/datadock/id/resource/country/Madagascar> <http://datadock.io/chickdastardly/datadock/id/definition/2002> "5 272"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+<http://datadock.io/chickdastardly/datadock/id/resource/Tokyo_Metro_station.csv/row_103> <http://datadock.io/chickdastardly/datadock/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#C-11> <http://datadock.io/chickdastardly/datadock/id/dataset/Tokyo_Metro_station.csv>.
