@@ -1,5 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Costa%20Rica> <http://datadock.io/chickdastardly/datadock/id/definition/2011> "10"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Guyana> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Guyana"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Iran%20(Islamic%20Republic%20of)> <http://datadock.io/chickdastardly/datadock/id/definition/2001> "8 924"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Pakistan> <http://datadock.io/chickdastardly/datadock/id/definition/2007> "128 380"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Sao%20Tome%20and%20Principe> <http://datadock.io/chickdastardly/datadock/id/definition/2013> "9 243"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿

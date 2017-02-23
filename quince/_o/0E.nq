@@ -1,4 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Bhutan> <http://datadock.io/chickdastardly/datadock/id/definition/2007> "793"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Comoros> <http://datadock.io/chickdastardly/datadock/id/definition/2010> "36 538"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Malaysia> <http://datadock.io/chickdastardly/datadock/id/definition/2001> "12 780"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Somalia> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Somalia"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿

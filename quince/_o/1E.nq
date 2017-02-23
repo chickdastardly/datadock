@@ -1,5 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Belize> <http://datadock.io/chickdastardly/datadock/id/definition/2009> "256"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Bolivia%20(Plurinational%20State%20of)> <http://datadock.io/chickdastardly/datadock/id/definition/2010> "13 769"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Chad> <http://datadock.io/chickdastardly/datadock/id/definition/2003> "45 195"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Ecuador> <http://datadock.io/chickdastardly/datadock/id/definition/2002> "86 757"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Jamaica> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Jamaica"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿

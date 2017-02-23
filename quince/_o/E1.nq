@@ -1,5 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Cabo%20Verde> <http://datadock.io/chickdastardly/datadock/id/definition/2002> "76"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Costa%20Rica> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Costa Rica"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Iran%20(Islamic%20Republic%20of)> <http://datadock.io/chickdastardly/datadock/id/definition/2013> "479"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Kenya> <http://datadock.io/chickdastardly/datadock/id/definition/2013> "2 335 286"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Panama> <http://datadock.io/chickdastardly/datadock/id/definition/2007> "1 281"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿

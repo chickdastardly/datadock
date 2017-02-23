@@ -1,3 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Sierra%20Leone> <http://datadock.io/chickdastardly/datadock/id/definition/2014> "1 374 476"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Togo> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Togo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Viet%20Nam> <http://datadock.io/chickdastardly/datadock/id/definition/2010> "17 515"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿

@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/chickdastardly/datadock/id/definition/2009> <http://www.w3.org/2000/01/rdf-schema#label> "2009"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/definitions>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Madagascar> <http://datadock.io/chickdastardly/datadock/id/definition/2002> "5 272"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.

@@ -1,5 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Botswana> <http://datadock.io/chickdastardly/datadock/id/definition/2004> "198"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/South%20Africa> <http://datadock.io/chickdastardly/datadock/id/definition/country> "South Africa"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Sri%20Lanka> <http://datadock.io/chickdastardly/datadock/id/definition/2007> "198"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Uganda> <http://datadock.io/chickdastardly/datadock/id/definition/2008> "979 298"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Viet%20Nam> <http://datadock.io/chickdastardly/datadock/id/definition/2013> "17 128"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿

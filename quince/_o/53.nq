@@ -1,3 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Guatemala> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Guatemala"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Iraq> <http://datadock.io/chickdastardly/datadock/id/definition/2005> "44"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Sri%20Lanka> <http://datadock.io/chickdastardly/datadock/id/definition/2008> "649"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿

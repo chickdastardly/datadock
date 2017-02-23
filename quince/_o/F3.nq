@@ -1,6 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Bangladesh> <http://datadock.io/chickdastardly/datadock/id/definition/2009> "63 873"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Gabon> <http://datadock.io/chickdastardly/datadock/id/definition/2007> "45 186"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Philippines> <http://datadock.io/chickdastardly/datadock/id/definition/2010> "18 560"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Suriname> <http://datadock.io/chickdastardly/datadock/id/definition/2003> "10 982"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Suriname> <http://datadock.io/chickdastardly/datadock/id/definition/2011> "771"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Tajikistan> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Tajikistan"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿

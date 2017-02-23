@@ -1,6 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/country/Congo> <http://datadock.io/chickdastardly/datadock/id/definition/country> "Congo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Ghana> <http://datadock.io/chickdastardly/datadock/id/definition/2014> "3 415 912"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Nepal> <http://datadock.io/chickdastardly/datadock/id/definition/2007> "5 621"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Saudi%20Arabia> <http://datadock.io/chickdastardly/datadock/id/definition/2014> "30"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Uzbekistan> <http://datadock.io/chickdastardly/datadock/id/definition/2007> "30"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/country/Yemen> <http://datadock.io/chickdastardly/datadock/id/definition/2005> "44 150"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/WHS3_48.csv>.
+﻿
