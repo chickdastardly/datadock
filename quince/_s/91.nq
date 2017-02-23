@@ -2,7 +2,6 @@
 <http://datadock.io/chickdastardly/datadock/> <http://purl.org/dc/terms/title> "Data" <http://datadock.io/chickdastardly/datadock/metadata>.
 <http://datadock.io/chickdastardly/datadock/> <http://rdfs.org/ns/void#subset> <http://datadock.io/chickdastardly/datadock/id/dataset/Bristol_Monuments.csv> <http://datadock.io/chickdastardly/datadock/metadata>.
 <http://datadock.io/chickdastardly/datadock/> <http://rdfs.org/ns/void#subset> <http://datadock.io/chickdastardly/datadock/id/dataset/Bristol_Monuments_LatLong.csv> <http://datadock.io/chickdastardly/datadock/metadata>.
-<http://datadock.io/chickdastardly/datadock/> <http://rdfs.org/ns/void#subset> <http://datadock.io/chickdastardly/datadock/id/dataset/monument_comments.csv> <http://datadock.io/chickdastardly/datadock/metadata>.
 <http://datadock.io/chickdastardly/datadock/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/chickdastardly/datadock/metadata>.
 <http://datadock.io/chickdastardly/datadock/id/resource/monument_record_no/11M> <http://datadock.io/chickdastardly/datadock/id/definition/amended> "37881"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/chickdastardly/datadock/id/dataset/Bristol_Monuments.csv>.
 <http://datadock.io/chickdastardly/datadock/id/resource/monument_record_no/11M> <http://datadock.io/chickdastardly/datadock/id/definition/broad_term> "Dwelling"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/Bristol_Monuments.csv>.
