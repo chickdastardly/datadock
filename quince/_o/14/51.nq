@@ -1,2 +1,1 @@
-﻿<http://datadock.io/chickdastardly/datadock/id/resource/monument_record_no/2267M> <http://datadock.io/chickdastardly/datadock/id/definition/monument_record_no> "2267M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/Bristol_Monuments.csv>.
-<http://datadock.io/chickdastardly/datadock/id/resource/monument_record_no/3264M> <http://datadock.io/chickdastardly/datadock/id/definition/location_1> "(51.458835, -2.5974007)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/chickdastardly/datadock/id/dataset/Bristol_Monuments.csv>.
+﻿
